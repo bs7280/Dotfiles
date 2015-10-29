@@ -1,0 +1,12 @@
+Scripts:
+Change lock icon
+Change wallpaper
+Change Color Schemes
+
+
+Color Scheme setup:
+-have a folder of color schemes
+-always have one color scheme called default in a saved location
+ then just move a color scheme over from the folder
+
+Configure the status bar
